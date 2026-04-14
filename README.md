@@ -17,3 +17,11 @@ Este projeto realiza uma análise simples de dados de vendas utilizando Python.
 - Cálculo de faturamento
 - Análise de produtos mais vendidos
 - Gráficos de vendas
+
+## Atualização AC2
+
+Nesta etapa foram adicionadas novas análises:
+
+- Faturamento por categoria
+- Evolução das vendas ao longo do tempo
+- Novos gráficos para visualização
