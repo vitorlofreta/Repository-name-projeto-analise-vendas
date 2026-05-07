@@ -25,3 +25,7 @@ Nesta etapa foram adicionadas novas análises:
 - Faturamento por categoria
 - Evolução das vendas ao longo do tempo
 - Novos gráficos para visualização
+
+## Atualização AC3
+
+Nesta etapa foi desenvolvido um dashboard utilizando Streamlit,  permitindo filtros e visualizações dinâmicas dos dados de vendas.
