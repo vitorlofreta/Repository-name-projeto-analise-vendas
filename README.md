@@ -26,6 +26,12 @@ Nesta etapa foram adicionadas novas análises:
 - Evolução das vendas ao longo do tempo
 - Novos gráficos para visualização
 
-## Atualização AC3
+## AC3 - Dashboard Interativo
 
-Nesta etapa foi desenvolvido um dashboard utilizando Streamlit,  permitindo filtros e visualizações dinâmicas dos dados de vendas.
+Nesta etapa foi desenvolvido um dashboard utilizando Streamlit para visualização dinâmica dos dados de vendas.
+
+Funcionalidades:
+- Filtro por categoria
+- Gráfico de produtos
+- Gráfico de faturamento
+- Visualização temporal
